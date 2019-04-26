@@ -5,5 +5,6 @@ Programs of DS and ALGO
 - Trees and Graphs
 - Dynamic Programming
 - Miscellaneous Algorithms
+- String Algos
 
 
